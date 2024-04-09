@@ -49,11 +49,13 @@ def max_marks(list1):
 
 
 ## Output:
-
+i)	# To find the maximum of marks using the list method sort.
 ![alt text](1.png)
 
+ii)	# To find the maximum marks using the list method max().
 ![alt text](2.png)
 
+iii) # To find the maximum marks without using builtin functions.
 ![alt text](3.png)
 
 ## Result:
